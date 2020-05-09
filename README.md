@@ -5,7 +5,7 @@ in this website,you can find all my 201 reading notes
 
 **read** | **link**
 ---------|----------
-Read 1     |[link 1]()
+Read 1     |[link 1](https://yazan-alshekha.github.io/reading-notes/class01)
 Read 2     |[link 2]()
 Read 3     |[link 3]()
 Read 4     |[link 4]()
