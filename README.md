@@ -7,7 +7,7 @@ in this website,you can find all my 201 reading notes
 ---------|----------
 Read 1     |[link 1](https://yazan-alshekha.github.io/reading-notes/class01)
 Read 2     |[link 2](https://yazan-alshekha.github.io/reading-notes/class02)
-Read 3     |[link 3]()
+Read 3     |[link 3](https://yazan-alshekha.github.io/reading-notes/class03)
 Read 4     |[link 4]()
 Read 5     |[link 5]()
 Read 6     |[link 6]()
