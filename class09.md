@@ -20,3 +20,17 @@
 4. Forms are easier to use if the form controls are vertically aligned using CSS.
 
 5. Forms benefit from styles that make them feel more interactive
+
+
+## Events
+
+1. Events are the browser's way of indicating when something has happened (such as when a page has finished loading or a button has been clicked). 
+
+2. Binding is the process of stating which event you are waiting to happen, and which element you are waiting for that event to happen upon. 
+
+
+3. When an event occurs on an element, it can trigger a JavaScript function. When this function then changes the web page in some way, it feels interactive because it has responded to the user. 
+
+4. You can use event delegation to monitor for events that happen on all of the children of an element
+
+5. The most commonly used events are W3C DOM events, although there are others in the HTMLS specification as well as browser-specific events. 
